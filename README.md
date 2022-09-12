@@ -1,2 +1,2 @@
 # PythonProjetos
- Projetos basicos em python
+ Projetos em python com versões em interface gráfica.
